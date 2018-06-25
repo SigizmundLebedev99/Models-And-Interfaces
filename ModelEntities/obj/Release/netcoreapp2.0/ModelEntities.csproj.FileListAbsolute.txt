@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\ModelEntities\ModelEntities\bin\Release\netcoreapp2.0\ModelEntities.deps.json
+C:\Users\hp\Desktop\ModelEntities\ModelEntities\bin\Release\netcoreapp2.0\ModelEntities.dll
+C:\Users\hp\Desktop\ModelEntities\ModelEntities\bin\Release\netcoreapp2.0\ModelEntities.pdb
+C:\Users\hp\Desktop\ModelEntities\ModelEntities\obj\Release\netcoreapp2.0\ModelEntities.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ModelEntities\ModelEntities\obj\Release\netcoreapp2.0\ModelEntities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ModelEntities\ModelEntities\obj\Release\netcoreapp2.0\ModelEntities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ModelEntities\ModelEntities\obj\Release\netcoreapp2.0\ModelEntities.AssemblyInfo.cs
+C:\Users\hp\Desktop\ModelEntities\ModelEntities\obj\Release\netcoreapp2.0\ModelEntities.dll
+C:\Users\hp\Desktop\ModelEntities\ModelEntities\obj\Release\netcoreapp2.0\ModelEntities.pdb

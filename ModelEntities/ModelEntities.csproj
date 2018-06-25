@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Модели из базы данных и интерфейсы для взаимодействия с back-end.
+</Description>
+    <Authors>Lebedev Dmitriy</Authors>
+    <Company>Lebedev Dmitriy</Company>
+    <PackageReleaseNotes>Это совершенно новый апи, теперт все методы асинхронны</PackageReleaseNotes>
+    <PackageTags>core library kit Practise</PackageTags>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageIconUrl></PackageIconUrl>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/SigizmundLebedev99/Dal-For-Practice-KitKai-ChatBot</PackageLicenseUrl>
+    <Copyright>Copyright 2018</Copyright>
+    <RepositoryType></RepositoryType>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <Version>2.0.2</Version>
+  </PropertyGroup>
+
+</Project>

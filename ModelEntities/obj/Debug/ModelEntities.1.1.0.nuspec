@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ModelEntities</id>
+    <version>1.1.0</version>
+    <authors>Lebedev Dmitriy</authors>
+    <owners>Lebedev Dmitriy</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/SigizmundLebedev99/Dal-For-Practice-KitKai-ChatBot</licenseUrl>
+    <description>Модели из базы данных и интерфейсы для взаимодействия с back-end.</description>
+    <releaseNotes>Изменил модели на немутабельные</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>core library kit Practise</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\hp\Desktop\ModelEntities\ModelEntities\bin\Debug\netcoreapp2.0\ModelEntities.dll" target="lib\netcoreapp2.0\ModelEntities.dll" />
+  </files>
+</package>
